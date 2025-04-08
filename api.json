@@ -1,0 +1,7 @@
+{
+  "key": "bmVwYWxpY2hhbm5lbDEwNEBnbWFpbC5jb20:TWxAk5GgrZ1F93WsfVesM",
+  "url": "https://api.d-id.com",
+  "websocketUrl": "wss://ws-api.d-id.com",
+  "service": "clips",
+  "elevenlabsKey": "sk_3868f076008f30e4c4642e72fe6810aab5abe571c06746a6"
+}
